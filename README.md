@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 module as1(a,b,c,d,e,f,g,h); 
 input a,b; 
 output c,d,e,f,g,h; 
@@ -73,10 +74,11 @@ assign f = ~(a & b);
 assign g = ~(a | b); 
 assign h = ~(a ^ b); 
 endmodule
-
+```
+```
  Developed by: Pragadeesh M
  RegisterNumber: 212225040309
- 
+ ```
 **Logic symbol & Truthtable**
 <img width="400" height="766" alt="image" src="https://github.com/user-attachments/assets/77d8eac8-2527-499c-8026-8e746c95954e" />
 
