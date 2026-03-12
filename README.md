@@ -80,6 +80,8 @@ endmodule
  RegisterNumber: 212225040309
  ```
 **Logic symbol & Truthtable**
+
+
 <img width="400" height="766" alt="image" src="https://github.com/user-attachments/assets/77d8eac8-2527-499c-8026-8e746c95954e" />
 
 **RTL realization Output:** 
